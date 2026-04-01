@@ -1,0 +1,14 @@
+# Compiled output
+build/
+
+# Object files (just in case)
+*.o
+
+# Socket file
+/tmp/termmgr.sock
+
+# Editor/OS clutter
+.vscode/
+.DS_Store
+*.swp
+*~
